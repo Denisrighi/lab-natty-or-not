@@ -22,7 +22,6 @@ As ferramentas utilizadas neste projeto incluem:
 1. **Ideação e roteiro** — Defini o tema “IA ou Intuição” para explorar a colaboração entre humanos e máquinas criativas.  
 2. **Geração de conteúdo** — Utilizei modelos de linguagem para criar texto base e refinei manualmente a narrativa para manter tom humano e fluidez natural.  
 3. **Edição visual** — Empreguei ferramentas de design para estruturar a diagramação e gerar imagens que reforçam o tema.  
-4. **Publicação** — O projeto foi exportado em formato **PDF (e-book)** e também adaptado para Markdown, para publicação no GitHub.  
 
 ---
 

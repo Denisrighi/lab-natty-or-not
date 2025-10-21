@@ -33,3 +33,6 @@ O resultado é um conteúdo impactante, que une storytelling humano e capacidade
 Ideal para publicação em LinkedIn, Instagram Reels e GitHub Pages, demonstrando domínio técnico e criativo em IA.
 
 👉 Assista ao vídeo completo: ([Aqui](https://github.com/Denisrighi/lab-natty-or-not/blob/main/IA%20ou%20Intui%C3%A7%C3%A3o_%20(2).mp4))
+
+[![Assista ao vídeo – IA ou Intuição]([https://img.youtube.com/vi/SEU_VIDEO_ID_HERE/0.jpg](https://github.com/Denisrighi/lab-natty-or-not/blob/main/IA%20ou%20Intui%C3%A7%C3%A3o_%20(2).mp4))](https://github.com/Denisrighi/lab-natty-or-not/blob/main/IA%20ou%20Intui%C3%A7%C3%A3o_%20(2).mp4)
+

@@ -10,9 +10,7 @@ O objetivo é explorar o uso de **IAs Generativas** na criação de conteúdos q
 ## 🤖 Tecnologias Utilizadas
 As ferramentas utilizadas neste projeto incluem:
 
-- **ChatGPT (OpenAI)** → Geração de textos criativos e estruturados.  
-- **DALL·E / Midjourney** → Criação de imagens artísticas baseadas em prompts.  
-- **ElevenLabs / Synthesia** → Geração de voz e avatar virtual (para versão em vídeo).  
+- **ChatGPT (OpenAI) e Gemini (Google)** → Geração de textos criativos e estruturados.  
 - **Canva + Notion AI** → Design e organização visual do e-book.  
 - **GitHub + Markdown** → Versionamento e documentação do projeto.
 

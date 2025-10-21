@@ -32,4 +32,4 @@ Finalização: Adição de música inspiradora, legendas e refinamento visual pa
 O resultado é um conteúdo impactante, que une storytelling humano e capacidade tecnológica.
 Ideal para publicação em LinkedIn, Instagram Reels e GitHub Pages, demonstrando domínio técnico e criativo em IA.
 
-👉 Assista ao vídeo completo: (adicione aqui o link do vídeo gerado no HeyGen, YouTube ou outra plataforma)
+👉 Assista ao vídeo completo: ([adicione aqui o link do vídeo gerado no HeyGen, YouTube ou outra plataforma](https://github.com/Denisrighi/lab-natty-or-not/blob/main/IA%20ou%20Intui%C3%A7%C3%A3o_%20(2).mp4))

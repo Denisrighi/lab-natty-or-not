@@ -28,7 +28,7 @@ As ferramentas utilizadas neste projeto incluem:
 - Material pronto para portfólio, evidenciando domínio de **IAs Generativas**, **edição multimodal** e **gestão de projeto com Git**.  
 - Reflexão sobre como o limite entre **criatividade humana** e **automação inteligente** está cada vez mais tênue.
 
-📎 [Versão PDF do Projeto (IA_ou_Intuicao.pdf)]([./IA_ou_Intuicao.pdf](https://github.com/Denisrighi/lab-natty-or-not/blob/main/IA_ou_Intuicao_v3.pdf))
+📎 [Versão PDF do Projeto (IA_ou_Intuicao.pdf)](./IA_ou_Intuicao.pdf](https://github.com/Denisrighi/lab-natty-or-not/blob/main/IA_ou_Intuicao_v3.pdf)](https://github.com/Denisrighi/lab-natty-or-not/blob/main/IA_ou_Intuicao_v3.pdf))
 
 ---
 
